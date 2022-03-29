@@ -17,3 +17,5 @@ pip3 install -r requirements.txt.
 python3 manage.py runserver.
     
 its really useful for you if you want a full stack website of social media solution
+
+repository of front end (Tabish1-web/front_end) 
