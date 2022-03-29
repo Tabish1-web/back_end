@@ -8,6 +8,8 @@ REACT.JS, DJANGO, RESTAPI complete solution.
 
 on mac os 
 
+setting env file also
+
 python3 -m venv venv.
     
 source venv/bin/activate.
