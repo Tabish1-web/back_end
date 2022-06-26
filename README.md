@@ -1,6 +1,6 @@
 # back_end
  
->>> This is backend on django of social media solution. ??
+>>> This is backend on django of social media solution. 
 
 >>> This is complete website front-end is also available on my github account.
 
