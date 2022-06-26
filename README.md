@@ -1,23 +1,23 @@
 # back_end
  
-this is backend on django of social media solution.
+>>> This is backend on django of social media solution.
 
-this is complete website front-end is also available on my github account.
+>>> This is complete website front-end is also available on my github account.
 
-REACT.JS, DJANGO, RESTAPI complete solution.
+>>> REACT.JS, DJANGO, RESTAPI complete solution.
 
-on mac os 
+>>> On mac os 
 
-setting env file also
+>>> Setting env file also
 
-python3 -m venv venv.
+>>> python3 -m venv venv.
     
-source venv/bin/activate.
+>>> Source venv/bin/activate.
     
-pip3 install -r requirements.txt.
+>>> Pip3 install -r requirements.txt.
     
-python3 manage.py runserver.
+>>> Python3 manage.py runserver.
     
-its really useful for you if you want a full stack website of social media solution
+>>> Its really useful for you if you want a full stack website of social media solution
 
-repository of front end (Tabish1-web/front_end) 
+>>> Repository of front end (Tabish1-web/front_end) 
