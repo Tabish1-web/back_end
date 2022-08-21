@@ -26,5 +26,5 @@ pip3 install -r requirements.txt
 python3 manage.py runserver
 ```
 
-its complete social media solution with front-end but i push front-end separate which is on react.js. Repository of front end
+its complete social media solution with front-end but i push front-end separate which is on react.js. Repository of front end\
 [social media solution(front-end)](https://www.github.com/tabish-debug/social-media-app-frontend)
