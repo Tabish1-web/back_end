@@ -1,23 +1,29 @@
-# back_end
+# Social Media Solution
  
->>> This is backend on django of social media solution. 
+`social media solution backend on django `
 
->>> This is complete website front-end is also available on my github account.
+### `.env file`
 
->>> REACT.JS, DJANGO, RESTAPI complete solution.
+```
+EMAIL_HOST_USER=
+EMAIL_HOST_PASSWORD=
+GOOGLE_CLIENT_ID=
+SOCIAL_PASSWORD=
+FRONTEND_URL=
 
->>> On mac os 
+TWITTER_CONSUMER_KEY=
+TWITTER_CONSUMER_SECRET=
+REDDIT_CLIENT_ID=
+REDDIT_CLIENT_SECRET=
+```
 
->>> Setting env file also
+### `running commands(macOS)`
 
->>> python3 -m venv venv.
-    
->>> Source venv/bin/activate.
-    
->>> Pip3 install -r requirements.txt.
-    
->>> Python3 manage.py runserver.
-    
->>> Its really useful for you if you want a full stack website of social media solution
+```
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+python3 manage.py runserver
+```
 
->>> Repository of front end (Tabish1-web/front_end) 
+`its complete social media solution with front-end but i push front-end separate which is on react.js. Repository of front end [a link] (https://www.github.com/tabish-debug/social-media-app-frontend)` 
