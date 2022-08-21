@@ -27,4 +27,4 @@ python3 manage.py runserver
 ```
 
 its complete social media solution with front-end but i push front-end separate which is on react.js. Repository of front end
-https://www.github.com/tabish-debug/social-media-app-frontend
+[social media solution(front-end)](https://www.github.com/tabish-debug/social-media-app-frontend)
